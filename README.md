@@ -1,2 +1,7 @@
 # C-Projects
-This repo contains about my C# projects.
+Project Title:- "File Hashing & Integrity checker"
+
+Features:-
+
+
+
