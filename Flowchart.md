@@ -50,3 +50,34 @@
  ┌──────────────────┐
  │      End         │
  └──────────────────┘
+
+
+
+ FileIntegrityChecker/
+│
+├── FileIntegrityChecker.csproj
+│
+├── Program.cs
+│
+├── Core/
+│   ├── HashComputer.cs
+│   ├── FileComparator.cs
+│   ├── HashAlgorithms.cs
+│   └── DirectoryMonitor.cs       (optional: for folder monitoring)
+│
+├── Models/
+│   └── HashResult.cs
+│
+├── Services/
+│   ├── LoggerService.cs
+│   ├── FileService.cs
+│   └── ConfigService.cs          (optional)
+│
+├── UI/
+│   ├── Menu.cs
+│   └── ConsolePrinter.cs
+│
+└── Utils/
+    ├── Extensions.cs
+    └── PathUtils.cs
+
