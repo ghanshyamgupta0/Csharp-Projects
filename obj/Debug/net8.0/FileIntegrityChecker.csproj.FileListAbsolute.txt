@@ -1,0 +1,14 @@
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\FileIntegrityChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\FileIntegrityChecker.AssemblyInfoInputs.cache
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\FileIntegrityChecker.AssemblyInfo.cs
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\FileIntegrityChecker.csproj.CoreCompileInputs.cache
+C:\Ghanshyam\projects\FileIntegrityChecker\bin\Debug\net8.0\FileIntegrityChecker.exe
+C:\Ghanshyam\projects\FileIntegrityChecker\bin\Debug\net8.0\FileIntegrityChecker.deps.json
+C:\Ghanshyam\projects\FileIntegrityChecker\bin\Debug\net8.0\FileIntegrityChecker.runtimeconfig.json
+C:\Ghanshyam\projects\FileIntegrityChecker\bin\Debug\net8.0\FileIntegrityChecker.dll
+C:\Ghanshyam\projects\FileIntegrityChecker\bin\Debug\net8.0\FileIntegrityChecker.pdb
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\FileIntegrityChecker.dll
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\refint\FileIntegrityChecker.dll
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\FileIntegrityChecker.pdb
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\FileIntegrityChecker.genruntimeconfig.cache
+C:\Ghanshyam\projects\FileIntegrityChecker\obj\Debug\net8.0\ref\FileIntegrityChecker.dll
